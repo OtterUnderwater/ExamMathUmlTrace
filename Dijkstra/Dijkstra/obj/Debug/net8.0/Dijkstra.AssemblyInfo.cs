@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dijkstra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c54d39465703ccc8f7a105ff6894b43c7651952")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2159dcacef09aba3251a1c659a85a604ed4cd8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dijkstra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dijkstra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
