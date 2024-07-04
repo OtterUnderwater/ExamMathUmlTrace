@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dijkstra", "Dijkstra\Dijkstra.csproj", "{5E5E7F6C-6C38-4410-89ED-B25C9FF3EC21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{F9EF4791-8106-416F-927F-3C75563E593A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E5E7F6C-6C38-4410-89ED-B25C9FF3EC21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5E7F6C-6C38-4410-89ED-B25C9FF3EC21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5E7F6C-6C38-4410-89ED-B25C9FF3EC21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5E7F6C-6C38-4410-89ED-B25C9FF3EC21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9EF4791-8106-416F-927F-3C75563E593A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9EF4791-8106-416F-927F-3C75563E593A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9EF4791-8106-416F-927F-3C75563E593A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9EF4791-8106-416F-927F-3C75563E593A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7350878-009F-4774-8BFD-7B51403D7DDD}
+	EndGlobalSection
+EndGlobal

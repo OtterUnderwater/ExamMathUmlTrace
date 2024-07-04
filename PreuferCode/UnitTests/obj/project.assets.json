@@ -1019,11 +1019,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aziraphale\\Desktop\\PreuferCode\\UnitTests\\UnitTests.csproj",
+      "projectUniqueName": "D:\\otter\\C#\\ExamMathUmlTrace\\PreuferCode\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
-      "projectPath": "C:\\Users\\Aziraphale\\Desktop\\PreuferCode\\UnitTests\\UnitTests.csproj",
+      "projectPath": "D:\\otter\\C#\\ExamMathUmlTrace\\PreuferCode\\UnitTests\\UnitTests.csproj",
       "packagesPath": "C:\\Users\\Aziraphale\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aziraphale\\Desktop\\PreuferCode\\UnitTests\\obj\\",
+      "outputPath": "D:\\otter\\C#\\ExamMathUmlTrace\\PreuferCode\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\need_programms\\Visual Studio\\Shared\\NuGetPackages"
@@ -1045,8 +1045,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Aziraphale\\Desktop\\PreuferCode\\PreuferCode\\PreuferCode.csproj": {
-              "projectPath": "C:\\Users\\Aziraphale\\Desktop\\PreuferCode\\PreuferCode\\PreuferCode.csproj"
+            "D:\\otter\\C#\\ExamMathUmlTrace\\PreuferCode\\PreuferCode\\PreuferCode.csproj": {
+              "projectPath": "D:\\otter\\C#\\ExamMathUmlTrace\\PreuferCode\\PreuferCode\\PreuferCode.csproj"
             }
           }
         }

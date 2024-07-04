@@ -67,5 +67,6 @@ namespace PreuferCode
 				writer.WriteLine(string.Join(";", preuferCode));
 			}
 		}
+
 	}
 }

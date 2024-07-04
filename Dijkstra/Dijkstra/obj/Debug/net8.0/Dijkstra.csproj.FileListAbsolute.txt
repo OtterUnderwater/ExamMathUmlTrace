@@ -1,0 +1,15 @@
+D:\otter\C#\ExamMathUmlTrace\Dijkstra\Dijkstra\bin\Debug\net8.0\Dijkstra.exe
+D:\otter\C#\ExamMathUmlTrace\Dijkstra\Dijkstra\bin\Debug\net8.0\Dijkstra.deps.json
+D:\otter\C#\ExamMathUmlTrace\Dijkstra\Dijkstra\bin\Debug\net8.0\Dijkstra.runtimeconfig.json
+D:\otter\C#\ExamMathUmlTrace\Dijkstra\Dijkstra\bin\Debug\net8.0\Dijkstra.dll
+D:\otter\C#\ExamMathUmlTrace\Dijkstra\Dijkstra\bin\Debug\net8.0\Dijkstra.pdb
+D:\otter\C#\ExamMathUmlTrace\Dijkstra\Dijkstra\obj\Debug\net8.0\Dijkstra.GeneratedMSBuildEditorConfig.editorconfig
+D:\otter\C#\ExamMathUmlTrace\Dijkstra\Dijkstra\obj\Debug\net8.0\Dijkstra.AssemblyInfoInputs.cache
+D:\otter\C#\ExamMathUmlTrace\Dijkstra\Dijkstra\obj\Debug\net8.0\Dijkstra.AssemblyInfo.cs
+D:\otter\C#\ExamMathUmlTrace\Dijkstra\Dijkstra\obj\Debug\net8.0\Dijkstra.csproj.CoreCompileInputs.cache
+D:\otter\C#\ExamMathUmlTrace\Dijkstra\Dijkstra\obj\Debug\net8.0\Dijkstra.sourcelink.json
+D:\otter\C#\ExamMathUmlTrace\Dijkstra\Dijkstra\obj\Debug\net8.0\Dijkstra.dll
+D:\otter\C#\ExamMathUmlTrace\Dijkstra\Dijkstra\obj\Debug\net8.0\refint\Dijkstra.dll
+D:\otter\C#\ExamMathUmlTrace\Dijkstra\Dijkstra\obj\Debug\net8.0\Dijkstra.pdb
+D:\otter\C#\ExamMathUmlTrace\Dijkstra\Dijkstra\obj\Debug\net8.0\Dijkstra.genruntimeconfig.cache
+D:\otter\C#\ExamMathUmlTrace\Dijkstra\Dijkstra\obj\Debug\net8.0\ref\Dijkstra.dll

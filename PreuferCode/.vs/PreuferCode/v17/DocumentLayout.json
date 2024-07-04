@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aziraphale\\Desktop\\PreuferCode\\",
+  "WorkspaceRootPath": "D:\\otter\\C#\\ExamMathUmlTrace\\PreuferCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB8E34E9-C991-485B-835D-F034DC892B94}|PreuferCode\\PreuferCode.csproj|c:\\users\\aziraphale\\desktop\\preufercode\\preufercode\\classpreufercode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB8E34E9-C991-485B-835D-F034DC892B94}|PreuferCode\\PreuferCode.csproj|d:\\otter\\c#\\exammathumltrace\\preufercode\\preufercode\\classpreufercode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB8E34E9-C991-485B-835D-F034DC892B94}|PreuferCode\\PreuferCode.csproj|solutionrelative:preufercode\\classpreufercode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79C9D6F5-CC12-48EE-8A93-4F60CD0CEC15}|UnitTests\\UnitTests.csproj|c:\\users\\aziraphale\\desktop\\preufercode\\unittests\\unittestsclasspreufercode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79C9D6F5-CC12-48EE-8A93-4F60CD0CEC15}|UnitTests\\UnitTests.csproj|d:\\otter\\c#\\exammathumltrace\\preufercode\\unittests\\unittestsclasspreufercode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79C9D6F5-CC12-48EE-8A93-4F60CD0CEC15}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\unittestsclasspreufercode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,11 +44,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ClassPreuferCode.cs",
-              "DocumentMoniker": "C:\\Users\\Aziraphale\\Desktop\\PreuferCode\\PreuferCode\\ClassPreuferCode.cs",
+              "DocumentMoniker": "D:\\otter\\C#\\ExamMathUmlTrace\\PreuferCode\\PreuferCode\\ClassPreuferCode.cs",
               "RelativeDocumentMoniker": "PreuferCode\\ClassPreuferCode.cs",
-              "ToolTip": "C:\\Users\\Aziraphale\\Desktop\\PreuferCode\\PreuferCode\\ClassPreuferCode.cs",
+              "ToolTip": "D:\\otter\\C#\\ExamMathUmlTrace\\PreuferCode\\PreuferCode\\ClassPreuferCode.cs",
               "RelativeToolTip": "PreuferCode\\ClassPreuferCode.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T15:33:04.392Z",
               "EditorCaption": ""
@@ -57,9 +57,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UnitTestsClassPreuferCode.cs",
-              "DocumentMoniker": "C:\\Users\\Aziraphale\\Desktop\\PreuferCode\\UnitTests\\UnitTestsClassPreuferCode.cs",
+              "DocumentMoniker": "D:\\otter\\C#\\ExamMathUmlTrace\\PreuferCode\\UnitTests\\UnitTestsClassPreuferCode.cs",
               "RelativeDocumentMoniker": "UnitTests\\UnitTestsClassPreuferCode.cs",
-              "ToolTip": "C:\\Users\\Aziraphale\\Desktop\\PreuferCode\\UnitTests\\UnitTestsClassPreuferCode.cs",
+              "ToolTip": "D:\\otter\\C#\\ExamMathUmlTrace\\PreuferCode\\UnitTests\\UnitTestsClassPreuferCode.cs",
               "RelativeToolTip": "UnitTests\\UnitTestsClassPreuferCode.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

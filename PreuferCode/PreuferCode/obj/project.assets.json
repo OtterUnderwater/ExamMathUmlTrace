@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aziraphale\\Desktop\\PreuferCode\\PreuferCode\\PreuferCode.csproj",
+      "projectUniqueName": "D:\\otter\\C#\\ExamMathUmlTrace\\PreuferCode\\PreuferCode\\PreuferCode.csproj",
       "projectName": "PreuferCode",
-      "projectPath": "C:\\Users\\Aziraphale\\Desktop\\PreuferCode\\PreuferCode\\PreuferCode.csproj",
+      "projectPath": "D:\\otter\\C#\\ExamMathUmlTrace\\PreuferCode\\PreuferCode\\PreuferCode.csproj",
       "packagesPath": "C:\\Users\\Aziraphale\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aziraphale\\Desktop\\PreuferCode\\PreuferCode\\obj\\",
+      "outputPath": "D:\\otter\\C#\\ExamMathUmlTrace\\PreuferCode\\PreuferCode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\need_programms\\Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kOOif1VGpig=",
+  "dgSpecHash": "2KPUbZbQeN4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aziraphale\\Desktop\\PreuferCode\\UnitTests\\UnitTests.csproj",
+  "projectFilePath": "D:\\otter\\C#\\ExamMathUmlTrace\\PreuferCode\\UnitTests\\UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aziraphale\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Aziraphale\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

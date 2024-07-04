@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PreuferCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c54d39465703ccc8f7a105ff6894b43c7651952")]
 [assembly: System.Reflection.AssemblyProductAttribute("PreuferCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PreuferCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
