@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\otter\\C#\\ExamMathUmlDebug\\Northwest\\",
+  "WorkspaceRootPath": "D:\\otter\\C#\\ExamMathUmlTrace\\Northwest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{670CF501-4AD0-40E2-8297-B0E33B3A61B3}|Northwest\\Northwest.csproj|d:\\otter\\c#\\exammathumldebug\\northwest\\northwest\\metodnorthwest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{606296FE-53B8-4F55-BB44-199EFA3D78F2}|UnitTests\\UnitTests.csproj|d:\\otter\\c#\\exammathumltrace\\northwest\\unittests\\unittestmetodnorthwest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606296FE-53B8-4F55-BB44-199EFA3D78F2}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\unittestmetodnorthwest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670CF501-4AD0-40E2-8297-B0E33B3A61B3}|Northwest\\Northwest.csproj|d:\\otter\\c#\\exammathumltrace\\northwest\\northwest\\metodnorthwest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{670CF501-4AD0-40E2-8297-B0E33B3A61B3}|Northwest\\Northwest.csproj|solutionrelative:northwest\\metodnorthwest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -39,12 +43,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTestMetodNorthwest.cs",
+              "DocumentMoniker": "D:\\otter\\C#\\ExamMathUmlTrace\\Northwest\\UnitTests\\UnitTestMetodNorthwest.cs",
+              "RelativeDocumentMoniker": "UnitTests\\UnitTestMetodNorthwest.cs",
+              "ToolTip": "D:\\otter\\C#\\ExamMathUmlTrace\\Northwest\\UnitTests\\UnitTestMetodNorthwest.cs",
+              "RelativeToolTip": "UnitTests\\UnitTestMetodNorthwest.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwEYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T04:01:35.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MetodNorthwest.cs",
-              "DocumentMoniker": "D:\\otter\\C#\\ExamMathUmlDebug\\Northwest\\Northwest\\MetodNorthwest.cs",
+              "DocumentMoniker": "D:\\otter\\C#\\ExamMathUmlTrace\\Northwest\\Northwest\\MetodNorthwest.cs",
               "RelativeDocumentMoniker": "Northwest\\MetodNorthwest.cs",
-              "ToolTip": "D:\\otter\\C#\\ExamMathUmlDebug\\Northwest\\Northwest\\MetodNorthwest.cs",
+              "ToolTip": "D:\\otter\\C#\\ExamMathUmlTrace\\Northwest\\Northwest\\MetodNorthwest.cs",
               "RelativeToolTip": "Northwest\\MetodNorthwest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAmAAAA",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAgwGAAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T15:22:44.68Z",
               "EditorCaption": ""

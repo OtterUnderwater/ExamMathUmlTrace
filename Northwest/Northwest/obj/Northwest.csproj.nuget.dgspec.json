@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\otter\\C#\\ExamMathUmlDebug\\Northwest\\Northwest\\Northwest.csproj": {}
+    "D:\\otter\\C#\\ExamMathUmlTrace\\Northwest\\Northwest\\Northwest.csproj": {}
   },
   "projects": {
-    "D:\\otter\\C#\\ExamMathUmlDebug\\Northwest\\Northwest\\Northwest.csproj": {
+    "D:\\otter\\C#\\ExamMathUmlTrace\\Northwest\\Northwest\\Northwest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\otter\\C#\\ExamMathUmlDebug\\Northwest\\Northwest\\Northwest.csproj",
+        "projectUniqueName": "D:\\otter\\C#\\ExamMathUmlTrace\\Northwest\\Northwest\\Northwest.csproj",
         "projectName": "Northwest",
-        "projectPath": "D:\\otter\\C#\\ExamMathUmlDebug\\Northwest\\Northwest\\Northwest.csproj",
+        "projectPath": "D:\\otter\\C#\\ExamMathUmlTrace\\Northwest\\Northwest\\Northwest.csproj",
         "packagesPath": "C:\\Users\\Aziraphale\\.nuget\\packages\\",
-        "outputPath": "D:\\otter\\C#\\ExamMathUmlDebug\\Northwest\\Northwest\\obj\\",
+        "outputPath": "D:\\otter\\C#\\ExamMathUmlTrace\\Northwest\\Northwest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\need_programms\\Visual Studio\\Shared\\NuGetPackages"

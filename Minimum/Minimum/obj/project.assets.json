@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\otter\\C#\\ExamMathUmlDebug\\Minimum\\Minimum\\Minimum.csproj",
+      "projectUniqueName": "D:\\otter\\C#\\ExamMathUmlTrace\\Minimum\\Minimum\\Minimum.csproj",
       "projectName": "Minimum",
-      "projectPath": "D:\\otter\\C#\\ExamMathUmlDebug\\Minimum\\Minimum\\Minimum.csproj",
+      "projectPath": "D:\\otter\\C#\\ExamMathUmlTrace\\Minimum\\Minimum\\Minimum.csproj",
       "packagesPath": "C:\\Users\\Aziraphale\\.nuget\\packages\\",
-      "outputPath": "D:\\otter\\C#\\ExamMathUmlDebug\\Minimum\\Minimum\\obj\\",
+      "outputPath": "D:\\otter\\C#\\ExamMathUmlTrace\\Minimum\\Minimum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\need_programms\\Visual Studio\\Shared\\NuGetPackages"

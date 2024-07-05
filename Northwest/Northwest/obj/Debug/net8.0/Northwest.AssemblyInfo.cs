@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Northwest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c23ccc7e96dabeccb176c5cff0e0c2effe61d1d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Northwest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Northwest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

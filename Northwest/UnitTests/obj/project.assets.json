@@ -1019,11 +1019,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\otter\\C#\\ExamMathUmlDebug\\Northwest\\UnitTests\\UnitTests.csproj",
+      "projectUniqueName": "D:\\otter\\C#\\ExamMathUmlTrace\\Northwest\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
-      "projectPath": "D:\\otter\\C#\\ExamMathUmlDebug\\Northwest\\UnitTests\\UnitTests.csproj",
+      "projectPath": "D:\\otter\\C#\\ExamMathUmlTrace\\Northwest\\UnitTests\\UnitTests.csproj",
       "packagesPath": "C:\\Users\\Aziraphale\\.nuget\\packages\\",
-      "outputPath": "D:\\otter\\C#\\ExamMathUmlDebug\\Northwest\\UnitTests\\obj\\",
+      "outputPath": "D:\\otter\\C#\\ExamMathUmlTrace\\Northwest\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\need_programms\\Visual Studio\\Shared\\NuGetPackages"
@@ -1045,8 +1045,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\otter\\C#\\ExamMathUmlDebug\\Northwest\\Northwest\\Northwest.csproj": {
-              "projectPath": "D:\\otter\\C#\\ExamMathUmlDebug\\Northwest\\Northwest\\Northwest.csproj"
+            "D:\\otter\\C#\\ExamMathUmlTrace\\Northwest\\Northwest\\Northwest.csproj": {
+              "projectPath": "D:\\otter\\C#\\ExamMathUmlTrace\\Northwest\\Northwest\\Northwest.csproj"
             }
           }
         }

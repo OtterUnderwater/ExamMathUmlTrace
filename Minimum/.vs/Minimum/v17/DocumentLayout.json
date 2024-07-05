@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\otter\\C#\\ExamMathUmlDebug\\Minimum\\",
+  "WorkspaceRootPath": "D:\\otter\\C#\\ExamMathUmlTrace\\Minimum\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3609F143-0639-42BB-95AA-E6BC5E1AB85D}|Minimum\\Minimum.csproj|d:\\otter\\c#\\exammathumldebug\\minimum\\minimum\\metodminimum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3609F143-0639-42BB-95AA-E6BC5E1AB85D}|Minimum\\Minimum.csproj|d:\\otter\\c#\\exammathumltrace\\minimum\\minimum\\metodminimum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3609F143-0639-42BB-95AA-E6BC5E1AB85D}|Minimum\\Minimum.csproj|solutionrelative:minimum\\metodminimum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,11 +40,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MetodMinimum.cs",
-              "DocumentMoniker": "D:\\otter\\C#\\ExamMathUmlDebug\\Minimum\\Minimum\\MetodMinimum.cs",
+              "DocumentMoniker": "D:\\otter\\C#\\ExamMathUmlTrace\\Minimum\\Minimum\\MetodMinimum.cs",
               "RelativeDocumentMoniker": "Minimum\\MetodMinimum.cs",
-              "ToolTip": "D:\\otter\\C#\\ExamMathUmlDebug\\Minimum\\Minimum\\MetodMinimum.cs",
+              "ToolTip": "D:\\otter\\C#\\ExamMathUmlTrace\\Minimum\\Minimum\\MetodMinimum.cs",
               "RelativeToolTip": "Minimum\\MetodMinimum.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAcwEoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T15:51:17.455Z",
               "EditorCaption": ""

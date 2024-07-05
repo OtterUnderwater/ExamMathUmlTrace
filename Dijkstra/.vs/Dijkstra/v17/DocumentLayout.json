@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\otter\\C#\\ExamMathUmlTrace\\Dijkstra\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5E5E7F6C-6C38-4410-89ED-B25C9FF3EC21}|Dijkstra\\Dijkstra.csproj|d:\\otter\\c#\\exammathumltrace\\dijkstra\\dijkstra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5E7F6C-6C38-4410-89ED-B25C9FF3EC21}|Dijkstra\\Dijkstra.csproj|solutionrelative:dijkstra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5E5E7F6C-6C38-4410-89ED-B25C9FF3EC21}|Dijkstra\\Dijkstra.csproj|d:\\otter\\c#\\exammathumltrace\\dijkstra\\dijkstra\\methoddijkstra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E5E7F6C-6C38-4410-89ED-B25C9FF3EC21}|Dijkstra\\Dijkstra.csproj|solutionrelative:dijkstra\\methoddijkstra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\otter\\C#\\ExamMathUmlTrace\\Dijkstra\\Dijkstra\\Program.cs",
+              "RelativeDocumentMoniker": "Dijkstra\\Program.cs",
+              "ToolTip": "D:\\otter\\C#\\ExamMathUmlTrace\\Dijkstra\\Dijkstra\\Program.cs",
+              "RelativeToolTip": "Dijkstra\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T03:39:42.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MethodDijkstra.cs",
               "DocumentMoniker": "D:\\otter\\C#\\ExamMathUmlTrace\\Dijkstra\\Dijkstra\\MethodDijkstra.cs",
               "RelativeDocumentMoniker": "Dijkstra\\MethodDijkstra.cs",

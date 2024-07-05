@@ -63,7 +63,12 @@ namespace UnitTests
 		[TestMethod]
 		public void GetStartFreeCells_ListTariffs_ReturnCount()
 		{
-			List<List<int>> testTariffs = new List<List<int>> { { [0, 100, 50] }, { [60, 0, 0] }, { [50, 0, 0] } };
+			List<List<int>> testTariffs = new List<List<int>>
+{
+	new List<int> { 0, 100, 50 },
+	new List<int> { 60, 0, 0 },
+	new List<int> { 50, 0, 0 }
+};
 			int expected = 2;
 
 			MetodNorthwest metodNorthwest = new MetodNorthwest();

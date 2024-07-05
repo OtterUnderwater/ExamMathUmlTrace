@@ -14,14 +14,7 @@ namespace Northwest
 				referencePlan.Add(new List<int>());
 				for (int j = 0; j < tariffs[0].Count; j++)
 				{
-					if (i == 0 || j == 0)
-					{
-						referencePlan[i].Add(tariffs[i][j]);
-					}
-					else
-					{
-						referencePlan[i].Add(0);
-					}
+					referencePlan[i].Add((i == 0 || j == 0) ? tariffs[i][j]: 0);
 				}
 			}
 			return referencePlan;
@@ -102,6 +95,7 @@ namespace Northwest
 			{
 				Console.WriteLine("Данные в файле некорректные");
 				Trace.WriteLine("Данные в файле некорректные: " + ex.GetType().Name);
+				Debug.WriteLine(ex.Message);
 			}
 		}
 		public void WriteFile(List<List<int>> plan, int L)
@@ -110,8 +104,7 @@ namespace Northwest
 			{
 				for (int i = 0; i < plan.Count; i++)
 				{
-					string row = string.Join(";", plan[i]);
-					writer.WriteLine(row);
+					writer.WriteLine(string.Join(";", plan[i]));
 				}
 				writer.WriteLine($"L = {L}");
 			}
